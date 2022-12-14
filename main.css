@@ -9,8 +9,10 @@
 body{
     /* background-color: beige; */
     /* background-color: #dfdfdf; */
-    background-color: #292929;
+    background-color: #181818;
 }
+
+
 
 a{
     text-decoration: none;
@@ -153,10 +155,19 @@ main .main-info h2{
 }
 
 
-.main-article .main-ul i{
+/* .main-article .main-ul i{
     margin-right: 40px;
     margin-top: 30px;
     font-size: 1.5em;
+} */
+
+.main-article .main-ul .line-div{
+    width: 2px;
+    height: 70px;
+    background-color: #fff;
+    margin-right: 50px;
+    /* margin-left: 20px; */
+    margin-top: 5px;
 }
 
 .main-article .main-ul li{
